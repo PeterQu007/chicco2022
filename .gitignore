@@ -18,6 +18,7 @@ googlekey.php
 # Temperary folders
 **/temp/
 **/app/assets/scripts/modules/GoogleMapsApi.*
+**/app/content/@mls-login.js
 
 # Bower dependency directory (https://bower.io/)
 bower_components
