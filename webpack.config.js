@@ -14,7 +14,7 @@ module.exports = {
   entry: {
     app: "./app/app.js",
     // Library: "./app/assets/scripts/Library.js",
-    EventPage: "./app/background/eventPage.js",
+    // EventPage: "./app/background/eventPage.js",
     // "@MLS-Login": "./app/content/@mls-Login.js",
     // HomePage: "./app/content/HomePage.js",
     // "MLS-HomePageQuickSearch": "./app/content/HomePageQuickSearch.js",
